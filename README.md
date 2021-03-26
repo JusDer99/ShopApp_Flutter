@@ -1,4 +1,4 @@
-# Flutter Shopping Cart App - Learn Flutter
+# Flutter ShopApp - Learn Flutter
 ## This practice app covers the following topics:
 * Basic UI / Widgets
 * Basic Routing
@@ -25,6 +25,5 @@
   * Slivers,
   * Custom Route Transition
 * ...and more
-## Screens:
-![Flutter Shopping Cart App Screens](https://i.ibb.co/PCnwfg7/flutter-shopping-cart-app.png)
+
 
